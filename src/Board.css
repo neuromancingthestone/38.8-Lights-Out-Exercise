@@ -1,0 +1,11 @@
+.Board {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  background-color: darkblue;
+  padding: 10px;
+}
+
+.board-container {
+  text-align: center;
+}
